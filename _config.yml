@@ -19,12 +19,9 @@ name: "Oskar Jarczyk"
 description: "Description..."
 thumbnail_path: "profile-photos/oskar-jarczyk-medium.jpg"
 bitcoin_address: ""
-hello_startup_url: "https://www.hello-startup.net/"
+pjait_url: "https://www.pja.edu.pl"
 website_repo_url: "https://github.com/oskar-j/oskar-j.github.io"
-atomic_squirrel_url: "https://www.atomic-squirrel.net/"
 deepbi_url: "https://www.deep.bi/"
-terraform_up_and_running_url: "https://www.terraformupandrunning.com/"
-terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
 
 # URLs
 contact_urls:
