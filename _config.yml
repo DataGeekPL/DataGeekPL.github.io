@@ -39,11 +39,11 @@ contact_urls:
     label: "Facebook"
     icon: "facebook-square"
   google:
-    url: "https://plus.google.com/+YevgeniyBrikman/"
+    url: "https://plus.google.com/"
     label: "Google+"
     icon: "google-plus-square"
   slideshare:
-    url: "https://www.slideshare.net/brikis98"
+    url: "https://www.slideshare.net/"
     label: "SlideShare"
     icon: "slideshare"
   github:
