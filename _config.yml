@@ -26,16 +26,16 @@ deepbi_url: "https://www.deep.bi/"
 # URLs
 contact_urls:
   twitter:
-    url: "https://twitter.com/brikis98"
+    url: "https://twitter.com/oskarj86"
     label: "Twitter"
     icon: "twitter-square"
-    username: "@brikis98"
+    username: "@oskarj86"
   linkedin:
-    url: "https://www.linkedin.com/in/jbrikman"
+    url: "https://www.linkedin.com/in/oskarjarczyk"
     label: "LinkedIn"
     icon: "linkedin-square"
   facebook:
-    url: "https://www.facebook.com/brikis98"
+    url: "https://www.facebook.com/social.networking.geek"
     label: "Facebook"
     icon: "facebook-square"
   google:
@@ -47,13 +47,13 @@ contact_urls:
     label: "SlideShare"
     icon: "slideshare"
   github:
-    url: "https://github.com/brikis98/"
+    url: "https://github.com/oskar-j/"
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "mailto:jim@ybrikman.com"
+    url: "mailto:oskar.jarczyk@gmail.com"
     label: "Email"
-    value: "jim@ybrikman.com"
+    value: "oskar.jarczyk@gmail.com"
     icon: "envelope-square"
 
 # Jekyll build settings
