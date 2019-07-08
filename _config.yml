@@ -40,9 +40,9 @@ contact_urls:
     label: "Facebook"
     icon: "facebook-square"
   google:
-    url: "https://plus.google.com/"
-    label: "Google+"
-    icon: "google-plus-square"
+    url: "goo.gl/w9pzmH"
+    label: "ResearchGate"
+    icon: "book-reader"
   slideshare:
     url: "https://www.slideshare.net/"
     label: "SlideShare"
