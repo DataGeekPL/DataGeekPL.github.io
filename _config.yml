@@ -37,7 +37,7 @@ contact_urls:
     icon: "linkedin-square"
   facebook:
     url: "https://www.facebook.com/social.networking.geek"
-    label: "Facebook"
+    label: "Facebook page"
     icon: "facebook-square"
   google:
     url: "https://plus.google.com/"
