@@ -8,9 +8,12 @@
     to spot irregularities invisible to the human eye.
   url: "https://www.deep.bi/"
   image: "ada.png"
-- name: "Under construction"
-  date: "2015"
+- name: "Skip Tracing & Cyber Tracking"
+  date: "2017"
   description: |
-    ...
-  url: "https://www.hello-startup.net/"
-  image: "hello-startup.jpg"
+    A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
+    our clients data collection strategy. We automated the manual process of skip tracing and offer high performance
+    along with capacity service that collects information about given individuals from multiple data sources,
+    incluidng mediasphere.
+  url: "https://togetherdata.com"
+  image: "tgd.png"
