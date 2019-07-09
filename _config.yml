@@ -44,9 +44,9 @@ contact_urls:
     label: "G.Scholar"
     icon: "google-plus-square"
   slideshare:
-    url: "https://www.slideshare.net/"
-    label: "SlideShare"
-    icon: "slideshare"
+    url: "https://medium.com/@oskar.jarczyk"
+    label: "Medium"
+    icon: "medium"
   github:
     url: "https://github.com/oskar-j/"
     label: "GitHub"
