@@ -6,7 +6,7 @@
     location aggregate data, along with in-transaction data about item deletes, item additions, refunds,
     and additional data, through neural networks and machine learning models
     to spot irregularities invisible to the human eye.
-  url: "https://www.deep.bi/"
+  url: "https://www.deep.bi/#retail"
   image: "ada.png"
 - name: "Skip Tracing & Cyber Tracking"
   date: "2017"
@@ -17,3 +17,12 @@
     incluidng mediasphere.
   url: "https://togetherdata.com"
   image: "tgd.png"
+- name: "BigSim for maritime"
+  date: "2016-2017"
+  description: |
+    I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
+    opitmized workflow of major ports in the America. Specialized operations research made for better performance
+    of the port, higher ratio of found contraband, and finally, lowering costs. Produced recommendations were
+    customer-tailored for every maritime port.
+  url: "https://www.scensei.com/"
+  image: "scensei.jpg"
