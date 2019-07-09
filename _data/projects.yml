@@ -26,3 +26,9 @@
     customer-tailored for every maritime port.
   url: "https://www.scensei.com/"
   image: "scensei.jpg"
+- name: "Content targeted advertising"
+  date: "2015-2016"
+  description: |
+    Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
+  url: "https://www.applica.ai/"
+  image: "applica.jpg"
