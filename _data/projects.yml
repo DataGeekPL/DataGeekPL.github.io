@@ -1,7 +1,7 @@
 - name: "ADA - Adaptive anomaly detection"
   date: "2018-2019"
   description: |
-    Fraud detection in retail stores/restaurants. Deep.BI uses AI pattern detection to analyze POS transaction data
+    [Commercial] [Closed source] Fraud detection in retail stores/restaurants. Deep.BI uses AI pattern detection to analyze POS transaction data
     and detect employee fraud. We don’t just look at transactions one-by-one; we analyze employee history and
     location aggregate data, along with in-transaction data about item deletes, item additions, refunds,
     and additional data, through neural networks and machine learning models
@@ -11,7 +11,7 @@
 - name: "Skip Tracing & Cyber Tracking"
   date: "2017"
   description: |
-    A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
+    [Commercial] [Closed source] A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
     our clients data collection strategy. We automated the manual process of skip tracing and offer high performance
     along with capacity service that collects information about given individuals from multiple data sources,
     incluidng mediasphere.
@@ -20,7 +20,7 @@
 - name: "BigSim for maritime"
   date: "2016-2017"
   description: |
-    I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
+    [Commercial] [Closed source] I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
     opitmized workflow of major ports in the America. Specialized operations research made for better performance
     of the port, higher ratio of found contraband, and finally, lowering costs. Produced recommendations were
     customer-tailored for every maritime port.
@@ -29,6 +29,16 @@
 - name: "Content targeted advertising"
   date: "2015-2016"
   description: |
-    Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
+    [Commercial] [Closed source] Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
   url: "https://www.applica.ai/"
   image: "applica.jpg"
+- name: "Analyzing open source teams of developers located on the GitHub portal"
+  date: "2013-2017"
+  description: |
+    [Academic] [Open source] "WikiTeams" is a research grant from the National Science Centre, Poland (NCN).
+    The research was conducted at the Polish-Japanese Academy of Information Technology.
+    The main goals were: a) Modeling and evaluating quality of virtual teams of programmers.
+    b) Creating recommendations for collaborative innovation networks.
+    c) Investigating emergent task allocation strategies.
+  url: "https://github.com/wikiteams/"
+  image: "github-logo.png"
