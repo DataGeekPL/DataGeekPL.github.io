@@ -1,0 +1,7 @@
+- name: "SocInfo conference (Barcelona, Spain)"
+  date: "2014"
+  description: |
+    [Academic] I gave a speech at SocInfo'14 conference presenting
+    paper "GitHub projects. Quality analysis of open-source software."
+  url: "https://www.springer.com/gp/book/9783319151670"
+  image: "github-logo.png"
