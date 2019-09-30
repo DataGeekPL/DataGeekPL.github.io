@@ -1,15 +1,17 @@
 - name: "FastCat - tool for browsing Wikipedia categories"
   date: "2019"
+  category: Open source
   description: |
-    _[Open source]_ Fastcat is a little Python library for quickly looking up broader/narrower relations in
+    Fastcat is a little Python library for quickly looking up broader/narrower relations in
     Wikipedia categories locally. The idea is that fastcat can be useful in situations where you need to rapidly
     lookup category relations, but don't want to abuse the Wikipedia API.
   url: "https://github.com/oskar-j/fastcat/"
   image: "fast_cat.png"
 - name: "ADA - Adaptive anomaly detection"
   date: "2018-2019"
+  category: Commercial, closed source
   description: |
-    _[Commercial, closed source]_ Fraud detection in retail stores/restaurants. Deep.BI uses AI pattern detection to analyze POS transactional data
+    Fraud detection in retail stores/restaurants. Deep.BI uses AI pattern detection to analyze POS transactional data
     and detect employee fraud. Solution doesn't just look at the transactions one-by-one; algorithm analyzes employee history and
     location aggregated data, along with in-transaction data about item deletes, item additions, refunds and employee profiles,
     through neural networks and machine learning models to spot irregularities invisible to the human eye.
