@@ -51,6 +51,13 @@
     Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
   url: "https://www.applica.ai/"
   image: "applica.jpg"
+- name: "Analysis of PM2.5 air contamination for the US data"
+  date: "2015"
+  category: Open source
+  description: |
+    Sample analysis of NEI public data about air contamination in USA.
+  url: "https://github.com/ShowMeModel/pm25-us-analysis/"
+  image: "github.jpg"
 - name: "Analyzing open source teams of developers located on the GitHub portal"
   date: "2013-2017"
   category: Academic, open source
