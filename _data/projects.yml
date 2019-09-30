@@ -51,6 +51,13 @@
     Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
   url: "https://www.applica.ai/"
   image: "applica.jpg"
+- name: "Forecasting views for Youtube content"
+  date: "2015"
+  category: Open source
+  description: |
+    Example of regression with caret framework.
+  url: "https://github.com/ShowMeModel/forecaster-views"
+  image: "github.jpg"
 - name: "Analysis of PM2.5 air contamination for the US data"
   date: "2015"
   category: Open source
