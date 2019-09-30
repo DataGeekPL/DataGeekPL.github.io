@@ -19,8 +19,9 @@
   image: "ada.png"
 - name: "Skip Tracing & Cyber Tracking"
   date: "2017"
+  category: Commercial, closed source
   description: |
-    _[Commercial, closed source]_ A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
+    A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
     our clients data collection strategy. We automated the manual process of skip tracing and offer high performance
     along with capacity service that collects information about given individuals from multiple data sources,
     incluidng mediasphere.
@@ -28,8 +29,9 @@
   image: "tgd.png"
 - name: "BigSim for maritime"
   date: "2016-2017"
+  category: Commercial, closed source
   description: |
-    _[Commercial, closed source]_ I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
+    I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
     opitmized workflow of major ports in the America. Specialized operations research made for better performance
     of the port, higher ratio of found contraband, and finally, lowering costs. Produced recommendations were
     customer-tailored for every maritime port.
@@ -37,14 +39,16 @@
   image: "scensei.jpg"
 - name: "Content targeted advertising"
   date: "2015-2016"
+  category: Commercial, closed source
   description: |
-    _[Commercial, closed source]_ Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
+    Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
   url: "https://www.applica.ai/"
   image: "applica.jpg"
 - name: "Analyzing open source teams of developers located on the GitHub portal"
   date: "2013-2017"
+  category: Academic, open source
   description: |
-    _[Academic, open source]_ "WikiTeams" is a research grant from the National Science Centre, Poland (NCN).
+    "WikiTeams" is a research grant from the National Science Centre, Poland (NCN).
     The research was conducted at the Polish-Japanese Academy of Information Technology.
     The main goals were: a) Modeling and evaluating quality of virtual teams of programmers.
     b) Creating recommendations for collaborative innovation networks.
