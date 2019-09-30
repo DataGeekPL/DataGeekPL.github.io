@@ -1,17 +1,24 @@
+- name: "FastCat - tool for browsing Wikipedia categories"
+  date: "2019"
+  description: |
+    _[Open source]_ Fastcat is a little Python library for quickly looking up broader/narrower relations in
+    Wikipedia categories locally. The idea is that fastcat can be useful in situations where you need to rapidly
+    lookup category relations, but don't want to abuse the Wikipedia API.
+  url: "https://github.com/oskar-j/fastcat/"
+  image: "fast_cat.png"
 - name: "ADA - Adaptive anomaly detection"
   date: "2018-2019"
   description: |
-    [Commercial] [Closed source] Fraud detection in retail stores/restaurants. Deep.BI uses AI pattern detection to analyze POS transaction data
-    and detect employee fraud. We don’t just look at transactions one-by-one; we analyze employee history and
-    location aggregate data, along with in-transaction data about item deletes, item additions, refunds,
-    and additional data, through neural networks and machine learning models
-    to spot irregularities invisible to the human eye.
+    _[Commercial, closed source]_ Fraud detection in retail stores/restaurants. Deep.BI uses AI pattern detection to analyze POS transactional data
+    and detect employee fraud. Solution doesn't just look at the transactions one-by-one; algorithm analyzes employee history and
+    location aggregated data, along with in-transaction data about item deletes, item additions, refunds and employee profiles,
+    through neural networks and machine learning models to spot irregularities invisible to the human eye.
   url: "https://www.deep.bi/#retail"
   image: "ada.png"
 - name: "Skip Tracing & Cyber Tracking"
   date: "2017"
   description: |
-    [Commercial] [Closed source] A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
+    _[Commercial, closed source]_ A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
     our clients data collection strategy. We automated the manual process of skip tracing and offer high performance
     along with capacity service that collects information about given individuals from multiple data sources,
     incluidng mediasphere.
@@ -20,7 +27,7 @@
 - name: "BigSim for maritime"
   date: "2016-2017"
   description: |
-    [Commercial] [Closed source] I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
+    _[Commercial, closed source]_ I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
     opitmized workflow of major ports in the America. Specialized operations research made for better performance
     of the port, higher ratio of found contraband, and finally, lowering costs. Produced recommendations were
     customer-tailored for every maritime port.
@@ -29,13 +36,13 @@
 - name: "Content targeted advertising"
   date: "2015-2016"
   description: |
-    [Commercial] [Closed source] Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
+    _[Commercial, closed source]_ Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
   url: "https://www.applica.ai/"
   image: "applica.jpg"
 - name: "Analyzing open source teams of developers located on the GitHub portal"
   date: "2013-2017"
   description: |
-    [Academic] [Open source] "WikiTeams" is a research grant from the National Science Centre, Poland (NCN).
+    _[Academic, open source]_ "WikiTeams" is a research grant from the National Science Centre, Poland (NCN).
     The research was conducted at the Polish-Japanese Academy of Information Technology.
     The main goals were: a) Modeling and evaluating quality of virtual teams of programmers.
     b) Creating recommendations for collaborative innovation networks.
