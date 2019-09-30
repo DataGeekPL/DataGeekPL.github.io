@@ -17,6 +17,13 @@
     through neural networks and machine learning models to spot irregularities invisible to the human eye.
   url: "https://www.deep.bi/#retail"
   image: "ada.png"
+- name: "Real estate price prediction for USA"
+  date: "2018"
+  category: Open source
+  description: |
+    Regression models for prices of real estate in the USA.
+  url: "https://github.com/ShowMeModel/real-estate-us/"
+  image: "github.jpg"
 - name: "Skip Tracing & Cyber Tracking"
   date: "2017"
   category: Commercial, closed source
