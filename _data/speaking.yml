@@ -1,7 +1,7 @@
 - name: "SocInfo'14 conference (Barcelona, Spain)"
   date: "Nov 12, 2014"
   description: |
-    [Academic] I gave a speech at SocInfo'14 conference presenting
+    [Academic] I gave a speech at the SocInfo'14 conference where I presented the
     paper "GitHub projects. Quality analysis of open-source software."
   links:
     - label: "Paper"
