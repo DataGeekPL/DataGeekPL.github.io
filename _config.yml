@@ -4,6 +4,7 @@ url: "https://datageek.pl"
 # Internal nav
 nav:
   main:
+    ai_models: "/models"
     writing: "/writing"
     speaking: "/speaking"
     projects: "/projects"
