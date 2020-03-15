@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Oskar Jarczyk: AI models"
+header_title: Models
+include_header: models_header.html
+nav_item: ai_models
+---
+
+{% for model in site.data.models %}
+  {% include model-outline.html project=model %}
+{% endfor %}

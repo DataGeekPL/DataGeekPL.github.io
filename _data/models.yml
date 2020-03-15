@@ -1,0 +1,22 @@
+- name: "Fraud Detection for EEE-CIS card transactions"
+  date: "2019"
+  category: Open source
+  description: |
+    Detecting fraud on online customer transactions using state of art LightGBM.
+  url: "https://github.com/ShowMeModel/ieee-fraud-detection"
+  image: "github.jpg"
+- name: "Car music recommender"
+  date: "2019"
+  category: Open source
+  description: |
+    Example of context-aware recommender model for the CarMusic dataset using different techniques, including automl,
+    deep learning and collaboration filtering.
+  url: "https://github.com/ShowMeModel/car-music-recommender"
+  image: "github.jpg"
+- name: "Real estate price prediction for USA"
+  date: "2018"
+  category: Open source
+  description: |
+    Regression models for prices of real estate in the USA.
+  url: "https://github.com/ShowMeModel/real-estate-us/"
+  image: "github.jpg"
