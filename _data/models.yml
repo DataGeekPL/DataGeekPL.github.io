@@ -1,3 +1,10 @@
+- name: "Churn detection and prevention for a fintech"
+  date: "2020"
+  category: Open source
+  description: |
+    Minimizing churn of customers of a popular fintech app.
+  url: "https://github.com/ShowMeModel/revolut_churn_challenge"
+  image: "github.jpg"
 - name: "Fraud Detection for EEE-CIS card transactions"
   date: "2019"
   category: Open source
