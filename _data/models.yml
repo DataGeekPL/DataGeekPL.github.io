@@ -4,7 +4,7 @@
   description: |
     Minimizing churn of customers of a popular fintech app.
   url: "https://github.com/ShowMeModel/revolut_churn_challenge"
-  image: "github.jpg"
+  image: "fintech.png"
 - name: "Fraud Detection for EEE-CIS card transactions"
   date: "2019"
   category: Open source
