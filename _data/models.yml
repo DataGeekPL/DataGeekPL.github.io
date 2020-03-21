@@ -42,3 +42,10 @@
     Regression models for prices of real estate in the USA.
   url: "https://github.com/ShowMeModel/real-estate-us/"
   image: "github.jpg"
+- name: "Predicting number of views"
+  date: "2016"
+  category: Open source (on GitHub)
+  description: |
+    Regression models for predicting number of views of YouTube videos.
+  url: "https://github.com/ShowMeModel/forecaster-views"
+  image: "youtube-logo.png"
