@@ -20,6 +20,13 @@
     at risk of breaking the rules (compliance / food safety).
   url: "https://github.com/ShowMeModel/chicago_food_inspections"
   image: "github.jpg"
+- name: "6nomads test"
+  date: "2019"
+  category: Open source (on GitHub)
+  description: |
+    A machine learning project for 6nomads (a multi-class clasification problem).
+  url: "https://github.com/ShowMeModel/9nomads"
+  image: "6nomads.png"
 - name: "Car music recommender"
   date: "2019"
   category: Open source
