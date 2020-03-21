@@ -63,3 +63,10 @@
     Regression models for predicting number of views of YouTube videos.
   url: "https://github.com/ShowMeModel/forecaster-views"
   image: "youtube-logo.png"
+- name: "PM2.5 analysis for USA"
+  date: "2015"
+  category: Open source (on GitHub)
+  description: |
+    Sample analysis of NEI public data about air contamination in USA.
+  url: "https://github.com/ShowMeModel/pm25-us-analysis"
+  image: "github.png"
