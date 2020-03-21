@@ -49,6 +49,13 @@
     Identifying columnar cactus on aerial images (deep-learning project).
   url: "https://github.com/ShowMeModel/aerial-cactus-identification"
   image: "cactus.png"
+- name: "Medical classifier for data from sensors"
+  date: "2019"
+  category: Open source (on GitHub)
+  description: |
+    Identifying possibly ill patients basing on data from sensors.
+  url: "https://github.com/oskar-j/medical_classifier"
+  image: "github.jpg"
 - name: "Real estate price prediction for USA"
   date: "2018"
   category: Open source
@@ -69,4 +76,4 @@
   description: |
     Sample analysis of NEI public data about air contamination in USA.
   url: "https://github.com/ShowMeModel/pm25-us-analysis"
-  image: "github.png"
+  image: "github.jpg"
