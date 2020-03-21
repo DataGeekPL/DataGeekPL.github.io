@@ -29,11 +29,18 @@
   image: "6nomads.png"
 - name: "Car music recommender"
   date: "2019"
-  category: Open source
+  category: Open source (on GitHub)
   description: |
-    Example of context-aware recommender model for the CarMusic dataset using different techniques, including automl,
-    deep learning and collaboration filtering.
+    Example of context-aware recommender model for the CarMusic dataset using different techniques, including AutoML,
+    deep learning and collaborative filtering.
   url: "https://github.com/ShowMeModel/car-music-recommender"
+  image: "github.jpg"
+- name: "News portal recommender"
+  date: "2019"
+  category: Open source (on GitHub)
+  description: |
+    News portal user interactions by Globo.com.
+  url: "https://github.com/ShowMeModel/news-portal-recommender"
   image: "github.jpg"
 - name: "Real estate price prediction for USA"
   date: "2018"
