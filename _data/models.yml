@@ -42,6 +42,13 @@
     News portal user interactions by Globo.com.
   url: "https://github.com/ShowMeModel/news-portal-recommender"
   image: "github.jpg"
+- name: "Finding cactuses on aerial footage"
+  date: "2019"
+  category: Open source (on GitHub)
+  description: |
+    Identifying columnar cactus on aerial images (deep-learning project).
+  url: "https://github.com/ShowMeModel/aerial-cactus-identification"
+  image: "github.jpg"
 - name: "Real estate price prediction for USA"
   date: "2018"
   category: Open source
