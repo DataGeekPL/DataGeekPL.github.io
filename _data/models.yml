@@ -48,7 +48,7 @@
   description: |
     Identifying columnar cactus on aerial images (deep-learning project).
   url: "https://github.com/ShowMeModel/aerial-cactus-identification"
-  image: "github.jpg"
+  image: "cactus.png"
 - name: "Real estate price prediction for USA"
   date: "2018"
   category: Open source
