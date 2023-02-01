@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Oskar Jarczyk: Certificates"
+header_title: Certificates
+include_header: certs_header.html
+nav_item: certs
+---
+
+{% for certs in site.data.certs %}
+  {% include certs-outline.html certs=certs %}
+{% endfor %}
