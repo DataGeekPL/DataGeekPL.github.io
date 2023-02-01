@@ -7,6 +7,7 @@ nav:
     ai_models: "/models"
     writing: "/writing"
     speaking: "/speaking"
+    certs: "/certs"
     projects: "/projects"
     kaggle: "https://www.kaggle.com/oskarj"
   writing:
