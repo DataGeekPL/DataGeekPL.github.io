@@ -5,3 +5,27 @@
   links:
     - label: "Certification"
       url: "#"
+- name: "The Data Scientist’s Toolbox"
+  date: "June 8, 2015"
+  description: |
+    Issuer: Johns Hopkins University
+    Skills gained: 
+    Data Science,
+    Github,
+    R Programming,
+    Rstudio
+  links:
+    - label: "Certification"
+      url: "https://www.coursera.org/account/accomplishments/verify/QC2JCCPT68"
+- name: "Practical Machine Learning"
+  date: "May 11, 2015"
+  description: |
+    Issuer: Johns Hopkins University
+    Skills gained: 
+    Random Forest,
+    Machine Learning (ML) Algorithms,
+    Machine Learning,
+    R Programming
+  links:
+    - label: "Certification"
+      url: "https://www.coursera.org/account/accomplishments/verify/QC2JCCPT68"
