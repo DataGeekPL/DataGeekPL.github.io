@@ -12,6 +12,7 @@ nav:
     kaggle: "https://www.kaggle.com/oskarj"
   writing:
     all: "/writing"
+    publications: "/writing/#publications"
     popular: "/writing/popular"
     tags: "/writing/tags"
     rss: "/feed.xml"

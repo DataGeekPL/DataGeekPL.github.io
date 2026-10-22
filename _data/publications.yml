@@ -1,0 +1,45 @@
+# Publications shown on /writing/ (generated from Google Scholar + Crossref, edit freely)
+- title: "Surgical teams on GitHub: Modeling performance of GitHub project development processes"
+  authors: "O. Jarczyk, S. Jaroszewicz, A. Wierzbicki, K. Pawlak, M. Jankowski-Lorek"
+  venue: "Information and Software Technology, vol. 100, pp. 32-46 (Elsevier)"
+  year: 2018
+  type: paper
+  doi: "10.1016/j.infsof.2018.03.010"
+  url: "https://doi.org/10.1016/j.infsof.2018.03.010"
+  post_url: "/writing/2018/08/14/new-paper/"
+- title: "Choose a Job You Love: Predicting Choices of GitHub Developers"
+  authors: "R. Nielek, O. Jarczyk, K. Pawlak, L. Bukowski, R. Bartusiak, A. Wierzbicki"
+  venue: "2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI), pp. 200-207"
+  year: 2016
+  type: paper
+  doi: "10.1109/wi.2016.0037"
+  url: "https://doi.org/10.1109/wi.2016.0037"
+- title: "Cooperation Prediction in GitHub Developers Network with Restricted Boltzmann Machine"
+  authors: "R. Bartusiak, T. Kajdanowicz, A. Wierzbicki, L. Bukowski, O. Jarczyk, K. Pawlak"
+  venue: "Asian Conference on Intelligent Information and Database Systems (ACIIDS 2016), LNCS, pp. 96-107 (Springer)"
+  year: 2016
+  type: paper
+  doi: "10.1007/978-3-662-49390-8_9"
+  url: "https://doi.org/10.1007/978-3-662-49390-8_9"
+- title: "Looking for big money in the grey zone. Simulation of High Yield Investment Programs strategies"
+  authors: "K. Gniadzik, G. Kowalik, O. Jarczyk, R. Nielek"
+  venue: "Computer Science, vol. 16 (AGH University of Science and Technology Press)"
+  year: 2015
+  type: paper
+  doi: "10.7494/csci.2015.16.3.237"
+  url: "https://doi.org/10.7494/csci.2015.16.3.237"
+- title: "GitHub Projects. Quality Analysis of Open-Source Software"
+  authors: "O. Jarczyk, B. Gruszka, S. Jaroszewicz, L. Bukowski, A. Wierzbicki"
+  venue: "International Conference on Social Informatics (SocInfo 2014), LNCS, pp. 80-94 (Springer)"
+  year: 2014
+  type: paper
+  doi: "10.1007/978-3-319-13734-6_6"
+  url: "https://doi.org/10.1007/978-3-319-13734-6_6"
+  note: "Nominated for the best paper award at SocInfo 2014"
+- title: "On the Effectiveness of Emergent Task Allocation of Virtual Programmer Teams"
+  authors: "O. Jarczyk, B. Gruszka, L. Bukowski, A. Wierzbicki"
+  venue: "2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence and Intelligent Agent Technologies (WI-IAT)"
+  year: 2014
+  type: paper
+  doi: "10.1109/wi-iat.2014.58"
+  url: "https://doi.org/10.1109/wi-iat.2014.58"
