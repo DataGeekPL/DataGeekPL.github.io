@@ -11,6 +11,7 @@ include_comments:
 ---
 
 {% include writing-nav.html %}
+{% if paginator.page == 1 %}{% include publications.html %}{% endif %}
 {% for post in paginator.posts %}
   {% include post-outline.html post=post %}
 {% endfor %}

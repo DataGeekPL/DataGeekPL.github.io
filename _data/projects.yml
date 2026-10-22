@@ -1,21 +1,57 @@
-- name: "Thresher - THRESHold EvaluatoR for Python"
-  date: "2021"
-  category: Open source
+- name: "Thresher - THRESHold EvaluatoR for Python, Spark and Ray"
+  date: "2020-2026"
+  category: "Open source · Python library & CLI · <code>pip install thresher-py</code>"
   description: |
-    A bare pandas implementation of a tool for finding the threshold which maximizes
-    accuracy of predict_proba like-outputs (from e.g. scikit-learn),
-    in regard to the provided ground truth (labels).
+    A classifier gives you probabilities, and turning them into yes/no answers needs a cut-off - which almost
+    every pipeline leaves at the default 0.5. Thresher takes your <code>predict_proba</code>-like scores and the
+    ground truth, and returns the threshold that classifies the highest fraction of samples correctly.
+    Seven search algorithms (from an exact sweep to faster histogram and search-based ones), support for
+    pandas, Apache Spark and Ray, usable as a library or straight from the terminal.
+    Documentation: <a href="https://thresher.readthedocs.io/en/stable/" target="_blank">thresher.readthedocs.io</a>.
   url: "https://github.com/oskar-j/thresher"
   image: "github.jpg"
-- name: "FastCat - tool for browsing Wikipedia categories"
-  date: "2019"
-  category: Open source
+- name: "FastCat - fast lookups of Wikipedia categories"
+  date: "2017-2026"
+  category: "Open source · Python & Redis · <code>pip install fastcat</code>"
   description: |
-    Fastcat is a little Python library for quickly looking up broader/narrower relations in
-    Wikipedia categories locally. The idea is that fastcat can be useful in situations where you need to rapidly
-    lookup category relations, but don't want to abuse the Wikipedia API.
-  url: "https://github.com/oskar-j/fastcat/"
+    A Python library for quickly looking up broader/narrower relations between Wikipedia categories locally,
+    from DBpedia SKOS dumps loaded into Redis - without hammering the Wikipedia API. Started as a fork of
+    Ed Summers' original tool; I ported it to Python 3, added support for 7+ Wikipedia languages, made loading
+    ~20x faster with pipelined Redis writes and added a new Databus engine. Co-maintained on PyPI.
+  url: "https://github.com/oskar-j/fastcat"
   image: "fast_cat.png"
+- name: "Walsh-Hadamard transform image codec"
+  date: "2019-2026"
+  category: "Open source · Python & NumPy"
+  description: |
+    A complete image codec built on the Walsh-Hadamard transform - a transform from the 1920s that needs nothing
+    but additions and subtractions. Pure Python and NumPy, every step exact (the same picture compresses to the
+    same bytes on every machine), seven image file formats in and out, DCT and Haar transforms on board to compare
+    against, and more than seven hundred tests. Works as a CLI and as a library.
+  url: "https://github.com/oskar-j/walsh-hadamard-transform"
+  image: "github.jpg"
+- name: "Curated awesome lists for AI and ML"
+  date: "2019-2026"
+  category: "Open source · curated lists, 150+ GitHub stars in total"
+  description: |
+    Lists of tools, libraries, datasets and research that I collect and maintain:
+    <a href="https://github.com/oskar-j/awesome-ai-spotter" target="_blank">awesome-ai-spotter</a> (detecting
+    AI-generated text, images, video and audio),
+    <a href="https://github.com/oskar-j/awesome-image-coloring" target="_blank">awesome-image-coloring</a>
+    (AI-powered image colorization, featured in awesome-awesomeness),
+    <a href="https://github.com/oskar-j/awesome-auto-ml" target="_blank">awesome-auto-ml</a> (AutoML frameworks),
+    <a href="https://github.com/oskar-j/awesome-sim-software" target="_blank">awesome-sim-software</a>
+    (multi-agent simulation frameworks) and
+    <a href="https://github.com/oskar-j/awesome-text-ml" target="_blank">awesome-text-ml</a> (ML for text data).
+  url: "https://github.com/oskar-j?tab=repositories&q=awesome"
+  image: "github.jpg"
+- name: "plwordnet-reader - Polish WordNet for Python"
+  date: "2019"
+  category: "Open source · Python, NLP"
+  description: |
+    A Python package for iterating over the Polish wordnet ("Słowosieć", v3.2).
+  url: "https://github.com/oskar-j/plwordnet-reader"
+  image: "github.jpg"
 - name: "ADA - Adaptive anomaly detection"
   date: "2018-2019"
   category: Commercial, closed source
@@ -33,15 +69,15 @@
     A dunning system, which boosts data collection capacity. Our solutions enabled to increase the efficiency of
     our clients data collection strategy. We automated the manual process of skip tracing and offer high performance
     along with capacity service that collects information about given individuals from multiple data sources,
-    incluidng mediasphere.
-  url: "https://togetherdata.com"
+    including mediasphere.
+  url: "https://web.archive.org/web/2018/https://togetherdata.com/"
   image: "tgd.png"
 - name: "BigSim for maritime"
   date: "2016-2017"
   category: Commercial, closed source
   description: |
     I worked on multi-agent big data simulation and optimization problem for the maritime industry. Our system
-    opitmized workflow of major ports in the America. Specialized operations research made for better performance
+    optimized workflow of major ports in the America. Specialized operations research made for better performance
     of the port, higher ratio of found contraband, and finally, lowering costs. Produced recommendations were
     customer-tailored for every maritime port.
   url: "https://www.scensei.com/"
@@ -51,8 +87,17 @@
   category: Commercial, closed source
   description: |
     Context-aware targeting of online advertisement through using advanced NLP and AI techniques.
-  url: "https://www.applica.ai/"
+  url: "https://web.archive.org/web/2021/https://www.applica.ai/"
   image: "applica.jpg"
+- name: "HYIP - simulation of High Yield Investment Programs"
+  date: "2014-2015"
+  category: Academic, open source
+  description: |
+    A multi-agent simulation of High Yield Investment Program (Ponzi-like) strategies, with a scraper of HYIP
+    monitoring sites and an R analysis of the results. Basis of the paper "Looking for big money in the grey zone"
+    (Computer Science, 2015) - see <a href="/writing/#publications">publications</a>.
+  url: "https://github.com/ResearchGeek/hyip-simulation"
+  image: "github.jpg"
 - name: "Forecasting views for Youtube content"
   date: "2015"
   category: Open source
@@ -76,5 +121,6 @@
     The main goals were: a) Modeling and evaluating quality of virtual teams of programmers.
     b) Creating recommendations for collaborative innovation networks.
     c) Investigating emergent task allocation strategies.
+    Results were published in several papers - see <a href="/writing/#publications">publications</a>.
   url: "https://github.com/wikiteams/"
   image: "github-logo.png"

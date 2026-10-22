@@ -1,0 +1,21 @@
+<section id="publications" class="mxn2 clearfix mt4 mb2 pb3 border-bottom border-light-gray circle-line">
+  <div class="px2">
+    <h2 class="mt0">Publications</h2>
+    <p class="left-align gray">
+      Peer-reviewed research on open-source collaboration, developer networks and multi-agent simulation,
+      from my PhD at <a href="{{ site.pjait_url }}" target="_blank">PJAIT</a>.
+      Citations are on <a href="{{ site.google_scholar_url }}" target="_blank">Google Scholar</a>.
+    </p>
+    {% for pub in site.data.publications %}
+    <div class="mb3">
+      <a href="{{ pub.url }}" target="_blank"><strong>{{ pub.title }}</strong></a>
+      <div class="h6 gray">{{ pub.authors }}</div>
+      <div class="h6">
+        {{ pub.venue }}, {{ pub.year }}
+        {% if pub.note %} &middot; <em>{{ pub.note }}</em>{% endif %}
+        {% if pub.post_url %} &middot; <a href="{{ pub.post_url }}">summary on this blog</a>{% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
