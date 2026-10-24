@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t1 d1">
+<title id="t1">Same 10 people, two ways to organize them</title>
+<desc id="d1">Left: a team where everyone works on everything, with all 45 communication paths between 10 people drawn. Right: Brooks's surgical team, where one surgeon does the cutting and nine supporting roles connect only to the surgeon - 9 paths.</desc>
+<rect width="960" height="600" rx="18" fill="#f5f8fa"/>
+<text x="480.0" y="52.0" font-size="28" font-weight="bold" fill="#2c3e50" text-anchor="middle">Same 10 people, two ways to organize them</text>
+<line x1="480" y1="92" x2="480" y2="545" stroke="#E7EEF2" stroke-width="2" stroke-dasharray="6 8"/>
+<text x="240.0" y="110.0" font-size="22" font-weight="bold" fill="#2c3e50" text-anchor="middle">“Hog-butchering” team</text>
+<text x="240.0" y="137.0" font-size="18" font-weight="normal" fill="#6b7780" text-anchor="middle">everyone cuts, everyone coordinates</text>
+<g stroke="#e4572e" stroke-width="1.6" stroke-opacity="0.5">
+<line x1="240.0" y1="180.0" x2="310.5" y2="202.9"/>
+<line x1="240.0" y1="180.0" x2="354.1" y2="262.9"/>
+<line x1="240.0" y1="180.0" x2="354.1" y2="337.1"/>
+<line x1="240.0" y1="180.0" x2="310.5" y2="397.1"/>
+<line x1="240.0" y1="180.0" x2="240.0" y2="420.0"/>
+<line x1="240.0" y1="180.0" x2="169.5" y2="397.1"/>
+<line x1="240.0" y1="180.0" x2="125.9" y2="337.1"/>
+<line x1="240.0" y1="180.0" x2="125.9" y2="262.9"/>
+<line x1="240.0" y1="180.0" x2="169.5" y2="202.9"/>
+<line x1="310.5" y1="202.9" x2="354.1" y2="262.9"/>
+<line x1="310.5" y1="202.9" x2="354.1" y2="337.1"/>
+<line x1="310.5" y1="202.9" x2="310.5" y2="397.1"/>
+<line x1="310.5" y1="202.9" x2="240.0" y2="420.0"/>
+<line x1="310.5" y1="202.9" x2="169.5" y2="397.1"/>
+<line x1="310.5" y1="202.9" x2="125.9" y2="337.1"/>
+<line x1="310.5" y1="202.9" x2="125.9" y2="262.9"/>
+<line x1="310.5" y1="202.9" x2="169.5" y2="202.9"/>
+<line x1="354.1" y1="262.9" x2="354.1" y2="337.1"/>
+<line x1="354.1" y1="262.9" x2="310.5" y2="397.1"/>
+<line x1="354.1" y1="262.9" x2="240.0" y2="420.0"/>
+<line x1="354.1" y1="262.9" x2="169.5" y2="397.1"/>
+<line x1="354.1" y1="262.9" x2="125.9" y2="337.1"/>
+<line x1="354.1" y1="262.9" x2="125.9" y2="262.9"/>
+<line x1="354.1" y1="262.9" x2="169.5" y2="202.9"/>
+<line x1="354.1" y1="337.1" x2="310.5" y2="397.1"/>
+<line x1="354.1" y1="337.1" x2="240.0" y2="420.0"/>
+<line x1="354.1" y1="337.1" x2="169.5" y2="397.1"/>
+<line x1="354.1" y1="337.1" x2="125.9" y2="337.1"/>
+<line x1="354.1" y1="337.1" x2="125.9" y2="262.9"/>
+<line x1="354.1" y1="337.1" x2="169.5" y2="202.9"/>
+<line x1="310.5" y1="397.1" x2="240.0" y2="420.0"/>
+<line x1="310.5" y1="397.1" x2="169.5" y2="397.1"/>
+<line x1="310.5" y1="397.1" x2="125.9" y2="337.1"/>
+<line x1="310.5" y1="397.1" x2="125.9" y2="262.9"/>
+<line x1="310.5" y1="397.1" x2="169.5" y2="202.9"/>
+<line x1="240.0" y1="420.0" x2="169.5" y2="397.1"/>
+<line x1="240.0" y1="420.0" x2="125.9" y2="337.1"/>
+<line x1="240.0" y1="420.0" x2="125.9" y2="262.9"/>
+<line x1="240.0" y1="420.0" x2="169.5" y2="202.9"/>
+<line x1="169.5" y1="397.1" x2="125.9" y2="337.1"/>
+<line x1="169.5" y1="397.1" x2="125.9" y2="262.9"/>
+<line x1="169.5" y1="397.1" x2="169.5" y2="202.9"/>
+<line x1="125.9" y1="337.1" x2="125.9" y2="262.9"/>
+<line x1="125.9" y1="337.1" x2="169.5" y2="202.9"/>
+<line x1="125.9" y1="262.9" x2="169.5" y2="202.9"/>
+</g>
+<g fill="#fff" stroke="#e4572e" stroke-width="3">
+<circle cx="240.0" cy="180.0" r="14"/>
+<circle cx="310.5" cy="202.9" r="14"/>
+<circle cx="354.1" cy="262.9" r="14"/>
+<circle cx="354.1" cy="337.1" r="14"/>
+<circle cx="310.5" cy="397.1" r="14"/>
+<circle cx="240.0" cy="420.0" r="14"/>
+<circle cx="169.5" cy="397.1" r="14"/>
+<circle cx="125.9" cy="337.1" r="14"/>
+<circle cx="125.9" cy="262.9" r="14"/>
+<circle cx="169.5" cy="202.9" r="14"/>
+</g>
+<text x="240.0" y="500.0" font-size="60" font-weight="bold" fill="#e4572e" text-anchor="middle">45</text>
+<text x="240.0" y="532.0" font-size="19" font-weight="normal" fill="#3A4145" text-anchor="middle">communication paths  ·  n(n−1)/2</text>
+<text x="720.0" y="110.0" font-size="22" font-weight="bold" fill="#2c3e50" text-anchor="middle">Surgical team</text>
+<text x="720.0" y="137.0" font-size="18" font-weight="normal" fill="#6b7780" text-anchor="middle">one cuts, nine support</text>
+<g stroke="#0096cc" stroke-width="3" stroke-opacity="0.75">
+<line x1="720" y1="300" x2="720.0" y2="190.0"/>
+<line x1="720" y1="300" x2="790.7" y2="215.7"/>
+<line x1="720" y1="300" x2="828.3" y2="280.9"/>
+<line x1="720" y1="300" x2="815.3" y2="355.0"/>
+<line x1="720" y1="300" x2="757.6" y2="403.4"/>
+<line x1="720" y1="300" x2="682.4" y2="403.4"/>
+<line x1="720" y1="300" x2="624.7" y2="355.0"/>
+<line x1="720" y1="300" x2="611.7" y2="280.9"/>
+<line x1="720" y1="300" x2="649.3" y2="215.7"/>
+</g>
+<g fill="#fff" stroke="#0096cc" stroke-width="3">
+<circle cx="720.0" cy="190.0" r="14"/>
+<circle cx="790.7" cy="215.7" r="14"/>
+<circle cx="828.3" cy="280.9" r="14"/>
+<circle cx="815.3" cy="355.0" r="14"/>
+<circle cx="757.6" cy="403.4" r="14"/>
+<circle cx="682.4" cy="403.4" r="14"/>
+<circle cx="624.7" cy="355.0" r="14"/>
+<circle cx="611.7" cy="280.9" r="14"/>
+<circle cx="649.3" cy="215.7" r="14"/>
+</g>
+<circle cx="720" cy="300" r="36" fill="#0096cc"/>
+<text x="720.0" y="305.0" font-size="14" font-weight="bold" fill="#fff" text-anchor="middle">surgeon</text>
+<text x="720.0" y="167.0" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="middle">language lawyer</text>
+<text x="807.4" y="200.8" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="start">administrator</text>
+<text x="853.9" y="281.4" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="start">editor</text>
+<text x="837.8" y="373.0" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="start">copilot</text>
+<text x="766.5" y="432.8" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="start">secretary</text>
+<text x="673.5" y="432.8" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="end">secretary</text>
+<text x="602.2" y="373.0" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="end">toolsmith</text>
+<text x="586.1" y="281.4" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="end">tester</text>
+<text x="632.6" y="200.8" font-size="17" font-weight="normal" fill="#3A4145" text-anchor="end">program clerk</text>
+<text x="720.0" y="500.0" font-size="60" font-weight="bold" fill="#0096cc" text-anchor="middle">9</text>
+<text x="720.0" y="532.0" font-size="19" font-weight="normal" fill="#3A4145" text-anchor="middle">paths, all through the surgeon</text>
+<text x="936.0" y="580.0" font-size="14" font-weight="normal" fill="#6b7780" text-anchor="end" font-style="italic">Team roles: Fred Brooks, The Mythical Man-Month (1975)</text>
+</svg>

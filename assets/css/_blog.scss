@@ -15,3 +15,90 @@ table.no-wrap {
     white-space: nowrap;
   }
 }
+
+// Long-form post elements: TL;DR box, paper card, collapsible extras
+.post .post-content {
+  .tldr {
+    background: #f5f8fa;
+    border-left: 5px solid $link-color;
+    border-radius: 4px;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0 2rem;
+
+    p { margin-top: 0; }
+    ul { margin-bottom: 0; padding-left: 1.25rem; }
+  }
+
+  figure {
+    margin: 2rem 0;
+
+    img { padding-bottom: 0.4rem; }
+  }
+
+  figcaption {
+    color: #6b7780;
+    margin-top: 0.4rem;
+  }
+
+  .paper-card {
+    border: 1px solid $light-gray;
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin: 1rem 0 1.5rem;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.06);
+  }
+
+  .paper-card-title {
+    display: block;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .paper-card-meta {
+    font-size: 0.85rem;
+    line-height: 1.4rem;
+    color: #6b7780;
+  }
+
+  .paper-card-button {
+    display: inline-block;
+    margin-top: 0.9rem;
+    padding: 0.35rem 1rem;
+    border-radius: 4px;
+    background: $link-color;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-decoration: none;
+
+    &:hover { background: $link-hover-color; }
+  }
+
+  details {
+    border: 1px solid $light-gray;
+    border-radius: 6px;
+    padding: 0.6rem 1rem;
+    margin: 0.75rem 0;
+
+    summary {
+      cursor: pointer;
+      font-family: "Open Sans", sans-serif;
+      font-weight: 700;
+      color: $header-color;
+    }
+
+    &[open] summary { margin-bottom: 0.6rem; }
+    pre { overflow-x: auto; font-size: 0.8rem; }
+  }
+
+  .post-update-note {
+    margin-top: 2rem;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #6b7780;
+  }
+}

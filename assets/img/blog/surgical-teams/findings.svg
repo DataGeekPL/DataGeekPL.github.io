@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t2 d2">
+<title id="t2">What moves the needle on issue closure?</title>
+<desc id="d2">Three findings. Bigger teams: lower issue closure rate. More centralized work: higher issue closure rate. A stronger developer social network: more commits, but no significant effect on issue closure.</desc>
+<rect width="960" height="540" rx="18" fill="#f5f8fa"/>
+<text x="480.0" y="52.0" font-size="28" font-weight="bold" fill="#2c3e50" text-anchor="middle">What moves the needle on issue closure?</text>
+<text x="480.0" y="82.0" font-size="19" font-weight="normal" fill="#6b7780" text-anchor="middle">How project traits relate to the issue closure rate of mature GitHub projects</text>
+<rect x="30" y="112" width="280" height="330" rx="16" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<circle cx="82.0" cy="140.0" r="5.5" fill="#e4572e"/><path d="M73.0,160.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#e4572e"/>
+<circle cx="126.0" cy="140.0" r="5.5" fill="#c9d3da"/><path d="M117.0,160.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="170.0" cy="140.0" r="5.5" fill="#c9d3da"/><path d="M161.0,160.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="214.0" cy="140.0" r="5.5" fill="#e4572e"/><path d="M205.0,160.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#e4572e"/>
+<circle cx="258.0" cy="140.0" r="5.5" fill="#c9d3da"/><path d="M249.0,160.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="93.0" cy="172.0" r="5.5" fill="#c9d3da"/><path d="M84.0,192.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="137.0" cy="172.0" r="5.5" fill="#c9d3da"/><path d="M128.0,192.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="181.0" cy="172.0" r="5.5" fill="#e4572e"/><path d="M172.0,192.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#e4572e"/>
+<circle cx="225.0" cy="172.0" r="5.5" fill="#c9d3da"/><path d="M216.0,192.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="269.0" cy="172.0" r="5.5" fill="#c9d3da"/><path d="M260.0,192.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="82.0" cy="204.0" r="5.5" fill="#c9d3da"/><path d="M73.0,224.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="126.0" cy="204.0" r="5.5" fill="#e4572e"/><path d="M117.0,224.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#e4572e"/>
+<circle cx="170.0" cy="204.0" r="5.5" fill="#c9d3da"/><path d="M161.0,224.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="214.0" cy="204.0" r="5.5" fill="#c9d3da"/><path d="M205.0,224.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#c9d3da"/>
+<circle cx="258.0" cy="204.0" r="5.5" fill="#e4572e"/><path d="M249.0,224.0 a9.0,9.0 0 0 1 18.0,0 z" fill="#e4572e"/>
+<text x="170.0" y="272.0" font-size="24" font-weight="bold" fill="#2c3e50" text-anchor="middle">Bigger team</text>
+<text x="170.0" y="300.0" font-size="18" font-weight="normal" fill="#6b7780" text-anchor="middle">more project members</text>
+<line x1="60" y1="318" x2="280" y2="318" stroke="#E7EEF2" stroke-width="2"/>
+<circle cx="92" cy="374" r="26" fill="#e4572e"/><path d="M92,388 l-12,-13 h7 v-14 h10 v14 h7 z" fill="#fff"/>
+<text x="132.0" y="372.0" font-size="28" font-weight="bold" fill="#e4572e" text-anchor="start">Lower</text>
+<text x="132.0" y="399.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">issue closure rate</text>
+<rect x="340" y="112" width="280" height="330" rx="16" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<g stroke="#2a9d8f" stroke-width="3"><line x1="480.0" y1="185" x2="480.0" y2="137.0"/><line x1="480.0" y1="185" x2="521.6" y2="161.0"/><line x1="480.0" y1="185" x2="521.6" y2="209.0"/><line x1="480.0" y1="185" x2="480.0" y2="233.0"/><line x1="480.0" y1="185" x2="438.4" y2="209.0"/><line x1="480.0" y1="185" x2="438.4" y2="161.0"/></g>
+<circle cx="480.0" cy="137.0" r="10" fill="#fff" stroke="#2a9d8f" stroke-width="3"/><circle cx="521.6" cy="161.0" r="10" fill="#fff" stroke="#2a9d8f" stroke-width="3"/><circle cx="521.6" cy="209.0" r="10" fill="#fff" stroke="#2a9d8f" stroke-width="3"/><circle cx="480.0" cy="233.0" r="10" fill="#fff" stroke="#2a9d8f" stroke-width="3"/><circle cx="438.4" cy="209.0" r="10" fill="#fff" stroke="#2a9d8f" stroke-width="3"/><circle cx="438.4" cy="161.0" r="10" fill="#fff" stroke="#2a9d8f" stroke-width="3"/>
+<circle cx="480.0" cy="185" r="18" fill="#2a9d8f"/>
+<text x="480.0" y="272.0" font-size="24" font-weight="bold" fill="#2c3e50" text-anchor="middle">Centralized work</text>
+<text x="480.0" y="300.0" font-size="18" font-weight="normal" fill="#6b7780" text-anchor="middle">most work done by a core</text>
+<line x1="370" y1="318" x2="590" y2="318" stroke="#E7EEF2" stroke-width="2"/>
+<circle cx="402" cy="374" r="26" fill="#2a9d8f"/><path d="M402,360 l-12,13 h7 v14 h10 v-14 h7 z" fill="#fff"/>
+<text x="442.0" y="372.0" font-size="28" font-weight="bold" fill="#2a9d8f" text-anchor="start">Higher</text>
+<text x="442.0" y="399.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">issue closure rate</text>
+<rect x="650" y="112" width="280" height="330" rx="16" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<g stroke="#8a96a0" stroke-width="2" stroke-opacity="0.8"><line x1="720.0" y1="160" x2="770.0" y2="140"/><line x1="770.0" y1="140" x2="835.0" y2="150"/><line x1="835.0" y1="150" x2="870.0" y2="195"/><line x1="870.0" y1="195" x2="815.0" y2="225"/><line x1="815.0" y1="225" x2="745.0" y2="220"/><line x1="745.0" y1="220" x2="705.0" y2="200"/><line x1="705.0" y1="200" x2="720.0" y2="160"/><line x1="795.0" y1="185" x2="720.0" y2="160"/><line x1="795.0" y1="185" x2="770.0" y2="140"/><line x1="795.0" y1="185" x2="835.0" y2="150"/><line x1="795.0" y1="185" x2="870.0" y2="195"/><line x1="795.0" y1="185" x2="815.0" y2="225"/><line x1="795.0" y1="185" x2="745.0" y2="220"/><line x1="770.0" y1="140" x2="745.0" y2="220"/><line x1="835.0" y1="150" x2="815.0" y2="225"/><line x1="720.0" y1="160" x2="745.0" y2="220"/><line x1="870.0" y1="195" x2="795.0" y2="185"/><line x1="705.0" y1="200" x2="795.0" y2="185"/><line x1="770.0" y1="140" x2="870.0" y2="195"/></g>
+<circle cx="720.0" cy="160" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/><circle cx="770.0" cy="140" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/><circle cx="835.0" cy="150" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/><circle cx="870.0" cy="195" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/><circle cx="815.0" cy="225" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/><circle cx="745.0" cy="220" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/><circle cx="705.0" cy="200" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/><circle cx="795.0" cy="185" r="9" fill="#fff" stroke="#8a96a0" stroke-width="3"/>
+<text x="790.0" y="272.0" font-size="24" font-weight="bold" fill="#2c3e50" text-anchor="middle">Developer network</text>
+<text x="790.0" y="300.0" font-size="18" font-weight="normal" fill="#6b7780" text-anchor="middle">well-connected developers</text>
+<line x1="680" y1="318" x2="900" y2="318" stroke="#E7EEF2" stroke-width="2"/>
+<circle cx="712" cy="374" r="26" fill="#8a96a0"/><g stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round"><path d="M701,370 q5.5,-6 11,0 t11,0"/><path d="M701,380 q5.5,-6 11,0 t11,0"/></g>
+<text x="752.0" y="366.0" font-size="28" font-weight="bold" fill="#8a96a0" text-anchor="start">Neutral</text>
+<text x="752.0" y="392.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">for issue closure</text>
+<text x="752.0" y="415.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="start">(but more commits)</text>
+<rect x="30" y="462" width="900" height="44" rx="12" fill="#2c3e50"/>
+<text x="480.0" y="491.0" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Verdict: Brooks’s “surgical team” holds up on GitHub</text>
+<text x="936.0" y="528.0" font-size="14" font-weight="normal" fill="#6b7780" text-anchor="end" font-style="italic">Source: Jarczyk et al., Information and Software Technology 100 (2018)</text>
+</svg>
