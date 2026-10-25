@@ -5,6 +5,12 @@
     <i class="fa fa-calendar"></i>
     <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
   </span>
+  {% if include.post.last_modified_at %}
+    <span class="mr1 nowrap">
+      <i class="fa fa-refresh"></i>
+      Updated <time datetime="{{ include.post.last_modified_at | date:"%Y-%m-%d" }}">{{ include.post.last_modified_at | date:"%b %d, %Y" }}</time>
+    </span>
+  {% endif %}
   {% if include.post.tags.size > 0 %}
     <span class="mr1 nowrap">
       <i class="fa fa-tags"></i>

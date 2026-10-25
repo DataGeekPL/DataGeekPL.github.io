@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="590" viewBox="0 0 960 590" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="sht shd">
+<title id="sht">How the drive moves a rating</title>
+<desc id="shd">Average change of a situational rating compared with the same driver's rating of the same song with no situation in mind. Biggest drops: sad mood, sleepy, traffic jam, lazy mood, lots of cars. Biggest lifts: night, free road, coast line, highway, sunny.</desc>
+<rect width="960" height="590" rx="18" fill="#f5f8fa"/>
+<text x="480.0" y="50.0" font-size="28" font-weight="bold" fill="#2c3e50" text-anchor="middle">How the drive moves a rating</text>
+<text x="480.0" y="80.0" font-size="18" font-weight="normal" fill="#6b7780" text-anchor="middle">Average change in stars vs. the same driver’s no-situation rating of the same song</text>
+<line x1="620" y1="110" x2="620" y2="532" stroke="#8a96a0" stroke-width="2"/>
+<rect x="620.0" y="124" width="161.1" height="24" rx="5" fill="#2a9d8f"/>
+<text x="270.0" y="142.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">night drive</text>
+<text x="789.1" y="142.0" font-size="17" font-weight="bold" fill="#2a9d8f" text-anchor="start">+0.29★</text>
+<rect x="620.0" y="162" width="92.1" height="24" rx="5" fill="#2a9d8f"/>
+<text x="270.0" y="180.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">free road</text>
+<text x="720.1" y="180.0" font-size="17" font-weight="bold" fill="#2a9d8f" text-anchor="start">+0.16★</text>
+<rect x="620.0" y="200" width="59.7" height="24" rx="5" fill="#2a9d8f"/>
+<text x="270.0" y="218.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">coast line</text>
+<text x="687.7" y="218.0" font-size="17" font-weight="bold" fill="#2a9d8f" text-anchor="start">+0.11★</text>
+<rect x="620.0" y="238" width="51.8" height="24" rx="5" fill="#2a9d8f"/>
+<text x="270.0" y="256.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">highway</text>
+<text x="679.8" y="256.0" font-size="17" font-weight="bold" fill="#2a9d8f" text-anchor="start">+0.09★</text>
+<rect x="620.0" y="276" width="50.4" height="24" rx="5" fill="#2a9d8f"/>
+<text x="270.0" y="294.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">sunny</text>
+<text x="678.4" y="294.0" font-size="17" font-weight="bold" fill="#2a9d8f" text-anchor="start">+0.09★</text>
+<rect x="430" y="312" width="380" height="30" fill="#f5f8fa"/>
+<text x="620.0" y="332.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle" font-style="italic">· · ·  16 other situations in between  · · ·</text>
+<rect x="366.4" y="352" width="253.6" height="24" rx="5" fill="#e4572e"/>
+<text x="270.0" y="370.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">sad mood</text>
+<text x="358.4" y="370.0" font-size="17" font-weight="bold" fill="#e4572e" text-anchor="end">−0.45★</text>
+<rect x="381.7" y="390" width="238.3" height="24" rx="5" fill="#e4572e"/>
+<text x="270.0" y="408.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">sleepy</text>
+<text x="373.7" y="408.0" font-size="17" font-weight="bold" fill="#e4572e" text-anchor="end">−0.43★</text>
+<rect x="407.4" y="428" width="212.6" height="24" rx="5" fill="#e4572e"/>
+<text x="270.0" y="446.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">traffic jam</text>
+<text x="399.4" y="446.0" font-size="17" font-weight="bold" fill="#e4572e" text-anchor="end">−0.38★</text>
+<rect x="424.1" y="466" width="195.9" height="24" rx="5" fill="#e4572e"/>
+<text x="270.0" y="484.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">lazy mood</text>
+<text x="416.1" y="484.0" font-size="17" font-weight="bold" fill="#e4572e" text-anchor="end">−0.35★</text>
+<rect x="437.3" y="504" width="182.7" height="24" rx="5" fill="#e4572e"/>
+<text x="270.0" y="522.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="end">lots of cars</text>
+<text x="429.3" y="522.0" font-size="17" font-weight="bold" fill="#e4572e" text-anchor="end">−0.33★</text>
+<text x="620.0" y="554.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="middle">0</text>
+<text x="936.0" y="574.0" font-size="13" font-weight="normal" fill="#6b7780" text-anchor="end" font-style="italic">InCarMusic, 3,009 situational ratings (Baltrunas et al., 2011)</text>
+</svg>
