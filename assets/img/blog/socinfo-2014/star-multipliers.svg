@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="stt std">
+<title id="stt">What goes with more stars?</title>
+<desc id="std">Approximate multipliers on a project's star count from the paper's regression: language detected 1.95 times, owned by an organization 1.46 times, created a year earlier 1.39 times, a fork 0.53 times, written in Common Lisp 0.20 times.</desc>
+<rect width="960" height="520" rx="18" fill="#f5f8fa"/>
+<text x="480.0" y="50.0" font-size="28" font-weight="bold" fill="#2c3e50" text-anchor="middle">What goes with more stars?</text>
+<text x="480.0" y="80.0" font-size="17" font-weight="normal" fill="#6b7780" text-anchor="middle">Star multipliers from the paper’s regression, all else being equal</text>
+<line x1="405.0" y1="116" x2="405.0" y2="440" stroke="#E7EEF2" stroke-width="2"/>
+<text x="405.0" y="466.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle">×0.2</text>
+<line x1="573.0" y1="116" x2="573.0" y2="440" stroke="#E7EEF2" stroke-width="2"/>
+<text x="573.0" y="466.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle">×0.5</text>
+<line x1="700.0" y1="116" x2="700.0" y2="440" stroke="#8a96a0" stroke-width="2"/>
+<text x="700.0" y="466.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle">×1</text>
+<line x1="827.0" y1="116" x2="827.0" y2="440" stroke="#E7EEF2" stroke-width="2"/>
+<text x="827.0" y="466.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle">×2</text>
+<rect x="700.0" y="138" width="122.4" height="30" rx="6" fill="#2a9d8f"/>
+<text x="330.0" y="160.0" font-size="18" font-weight="bold" fill="#2c3e50" text-anchor="end">Language detected by GitHub</text>
+<text x="832.4" y="160.0" font-size="18" font-weight="bold" fill="#2a9d8f" text-anchor="start">×1.95</text>
+<rect x="700.0" y="200" width="68.8" height="30" rx="6" fill="#2a9d8f"/>
+<text x="330.0" y="222.0" font-size="18" font-weight="bold" fill="#2c3e50" text-anchor="end">Owned by an organization</text>
+<text x="778.8" y="222.0" font-size="18" font-weight="bold" fill="#2a9d8f" text-anchor="start">×1.46</text>
+<rect x="700.0" y="262" width="60.8" height="30" rx="6" fill="#2a9d8f"/>
+<text x="330.0" y="284.0" font-size="18" font-weight="bold" fill="#2c3e50" text-anchor="end">Created a year earlier</text>
+<text x="770.8" y="284.0" font-size="18" font-weight="bold" fill="#2a9d8f" text-anchor="start">×1.39</text>
+<rect x="585.2" y="324" width="114.8" height="30" rx="6" fill="#e4572e"/>
+<text x="330.0" y="346.0" font-size="18" font-weight="bold" fill="#2c3e50" text-anchor="end">A fork of another project</text>
+<text x="575.2" y="346.0" font-size="18" font-weight="bold" fill="#e4572e" text-anchor="end">×0.53</text>
+<rect x="403.7" y="386" width="296.3" height="30" rx="6" fill="#e4572e"/>
+<text x="330.0" y="408.0" font-size="18" font-weight="bold" fill="#2c3e50" text-anchor="end">Written in Common Lisp</text>
+<text x="393.7" y="408.0" font-size="18" font-weight="bold" fill="#e4572e" text-anchor="end">×0.20</text>
+<text x="936.0" y="504.0" font-size="13" font-weight="normal" fill="#6b7780" text-anchor="end" font-style="italic">Coefficients on log10(stars + 10): Jarczyk et al., SocInfo 2014, Table 1 and §5.2</text>
+</svg>
