@@ -12,10 +12,11 @@
 - name: "Machine Learning with Python: A Practical Introduction"
   issuer: "IBM"
   platform: "edX"
-  date: 2019-05-01
+  date: 2019-05-25
   badge: "IBM"
   color: "#1f70c1"
   skills: ["Machine learning", "Python", "scikit-learn"]
+  url: "https://courses.edx.org/certificates/42a98abe5daf4b8f8430e1ea932f48b9"
 
 - name: "Reproducible Research"
   issuer: "Johns Hopkins University"
@@ -29,10 +30,11 @@
 - name: "DAT209x: Programming in R for Data Science"
   issuer: "Microsoft"
   platform: "edX"
-  date: 2016-05-01
+  date: 2016-05-20
   badge: "MS"
   color: "#2a9d8f"
   skills: ["R", "Data science"]
+  url: "https://courses.edx.org/certificates/be9144287ba2470fad5adf78565aaed0"
 
 - name: "Data Visualization"
   issuer: "Coursera"
