@@ -6,6 +6,45 @@ include_header: certs_header.html
 nav_item: certs
 ---
 
-{% for certs in site.data.certs %}
-  {% include certs-outline.html certs=certs %}
+{% assign certs = site.data.certs | sort: "date" | reverse %}
+{% assign issuers = site.data.certs | map: "issuer" | uniq %}
+{% assign newest = certs | first %}
+{% assign oldest = certs | last %}
+
+<div class="certs-summary">
+  <div><span class="certs-summary-number">{{ certs | size }}</span> certificates</div>
+  <div><span class="certs-summary-number">{{ issuers | size }}</span> issuers</div>
+  {% assign first_year = oldest.date | date: "%Y" | plus: 0 %}
+  {% assign last_year = newest.date | date: "%Y" | plus: 0 %}
+  <div><span class="certs-summary-number">{{ last_year | minus: first_year | plus: 1 }}</span> years of learning</div>
+</div>
+
+{% assign years = certs | group_by_exp: "cert", "cert.date | date: '%Y'" %}
+{% for year in years %}
+  <section class="certs-year">
+    <h2 class="certs-year-title">{{ year.name }}</h2>
+    {% for cert in year.items %}
+      <div class="cert">
+        <div class="cert-badge" style="background-color: {{ cert.color }}">{{ cert.badge }}</div>
+        <div class="cert-body">
+          <h3 class="cert-name">
+            {% if cert.url %}<a href="{{ cert.url }}" target="_blank" rel="noopener">{{ cert.name }}</a>{% else %}{{ cert.name }}{% endif %}
+          </h3>
+          <div class="cert-meta">
+            {{ cert.issuer }}{% if cert.platform != cert.issuer %} &middot; {{ cert.platform }}{% endif %} &middot; {{ cert.date | date: "%b %Y" }}
+            {% if cert.note %}<span class="cert-note">{{ cert.note }}</span>{% endif %}
+            {% if cert.honors %}<span class="cert-honors"><i class="fa fa-star"></i> {{ cert.honors }}</span>{% endif %}
+          </div>
+          {% if cert.skills %}
+            <div class="cert-skills">
+              {% for skill in cert.skills %}<span class="cert-skill">{{ skill }}</span>{% endfor %}
+            </div>
+          {% endif %}
+          {% if cert.url %}
+            <a class="cert-verify" href="{{ cert.url }}" target="_blank" rel="noopener"><i class="fa fa-check-circle"></i> Verify certificate</a>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </section>
 {% endfor %}

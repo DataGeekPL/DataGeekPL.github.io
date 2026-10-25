@@ -1,31 +1,102 @@
+# Certificates shown on /certs/, newest first by `date` (the day is a placeholder: only month and year are shown).
+# `badge` and `color` draw the round issuer badge; `url` is a verification link and `honors` a highlighted label,
+# both shown only when set.
+- name: "Generative AI with Large Language Models"
+  issuer: "DeepLearning.AI & AWS"
+  platform: "Coursera"
+  date: 2024-12-01
+  badge: "DL"
+  color: "#e4572e"
+  skills: ["Generative AI", "LLM applications", "Fine-tuning", "Reinforcement learning", "Model evaluation", "Python"]
+  url: "https://www.coursera.org/account/accomplishments/verify/WT5CHKEXL2XG"
+
 - name: "Machine Learning with Python: A Practical Introduction"
-  date: "May 20, 2019"
-  description: |
-    Issuer: IBM (edX), issued on May 2019
-  links:
-    - label: "Certification"
-      url: "#"
-- name: "The Data Scientist’s Toolbox"
-  date: "June 8, 2015"
-  description: |
-    Issuer: Johns Hopkins University
-    Skills gained: 
-    Data Science,
-    Github,
-    R Programming,
-    Rstudio
-  links:
-    - label: "Certification"
-      url: "https://www.coursera.org/account/accomplishments/verify/QC2JCCPT68"
+  issuer: "IBM"
+  platform: "edX"
+  date: 2019-05-25
+  badge: "IBM"
+  color: "#1f70c1"
+  skills: ["Machine learning", "Python", "scikit-learn"]
+  url: "https://courses.edx.org/certificates/42a98abe5daf4b8f8430e1ea932f48b9"
+
+- name: "Reproducible Research"
+  issuer: "Johns Hopkins University"
+  platform: "Coursera"
+  date: 2016-06-14
+  badge: "JHU"
+  color: "#2c3e50"
+  note: "Data Science Specialization"
+  skills: ["Reproducible research", "R Markdown", "knitr"]
+  url: "https://www.coursera.org/account/accomplishments/verify/F7FWQ8J89CUN"
+
+- name: "DAT209x: Programming in R for Data Science"
+  issuer: "Microsoft"
+  platform: "edX"
+  date: 2016-05-20
+  badge: "MS"
+  color: "#2a9d8f"
+  skills: ["R", "Data science"]
+  url: "https://courses.edx.org/certificates/be9144287ba2470fad5adf78565aaed0"
+
+- name: "Data Visualization"
+  issuer: "Coursera"
+  platform: "Coursera"
+  date: 2015-08-01
+  badge: "C"
+  color: "#0096cc"
+  skills: ["Data visualization"]
+
+- name: "Exploratory Data Analysis"
+  issuer: "Johns Hopkins University"
+  platform: "Coursera"
+  date: 2015-08-01
+  badge: "JHU"
+  color: "#2c3e50"
+  note: "Data Science Specialization"
+  skills: ["Exploratory analysis", "R", "Plotting"]
+
+- name: "Getting and Cleaning Data"
+  issuer: "Johns Hopkins University"
+  platform: "Coursera"
+  date: 2015-08-01
+  badge: "JHU"
+  color: "#2c3e50"
+  note: "Data Science Specialization"
+  skills: ["Data cleaning", "R"]
+
+- name: "R Programming"
+  issuer: "Johns Hopkins University"
+  platform: "Coursera"
+  date: 2015-06-01
+  badge: "JHU"
+  color: "#2c3e50"
+  note: "Data Science Specialization"
+  skills: ["R"]
+
 - name: "Practical Machine Learning"
-  date: "May 11, 2015"
-  description: |
-    Issuer: Johns Hopkins University
-    Skills gained: 
-    Random Forest,
-    Machine Learning (ML) Algorithms,
-    Machine Learning,
-    R Programming
-  links:
-    - label: "Certification"
-      url: "https://www.coursera.org/account/accomplishments/verify/QC2JCCPT68"
+  issuer: "Johns Hopkins University"
+  platform: "Coursera"
+  date: 2015-06-01
+  badge: "JHU"
+  color: "#2c3e50"
+  note: "Data Science Specialization"
+  skills: ["Machine learning", "Random forest", "R"]
+
+- name: "The Data Scientist’s Toolbox"
+  issuer: "Johns Hopkins University"
+  platform: "Coursera"
+  date: 2015-06-08
+  badge: "JHU"
+  color: "#2c3e50"
+  note: "Data Science Specialization"
+  honors: "With distinction"
+  skills: ["Data science", "GitHub", "R", "RStudio"]
+  url: "https://www.coursera.org/account/accomplishments/verify/QC2JCCPT68"
+
+- name: "Process Mining: Data Science in Action"
+  issuer: "Eindhoven University of Technology"
+  platform: "Coursera"
+  date: 2015-05-01
+  badge: "TU/e"
+  color: "#c9782f"
+  skills: ["Process mining", "Data science"]
