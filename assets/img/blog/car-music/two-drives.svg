@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="plt pld">
+<title id="plt">One driver, two drives</title>
+<desc id="pld">Driver 1033's top five songs on a free road and in a traffic jam, as predicted by the model. In the jam every song loses close to a star, two blues songs enter the top five and two pop and rock songs drop out. Highway Star was never rated by this driver.</desc>
+<rect width="960" height="600" rx="18" fill="#f5f8fa"/>
+<text x="480.0" y="50.0" font-size="28" font-weight="bold" fill="#2c3e50" text-anchor="middle">One driver, two drives</text>
+<text x="480.0" y="80.0" font-size="18" font-weight="normal" fill="#6b7780" text-anchor="middle">Driver 1033’s top 5, as predicted by the model</text>
+<rect x="60" y="102" width="340" height="34" rx="17" fill="#2c3e50"/>
+<text x="230.0" y="125.0" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">on a free road</text>
+<rect x="60" y="150" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="60" y="150" width="7" height="58" rx="3" fill="#e4572e"/>
+<text x="82.0" y="175.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Sultans of Swing</text>
+<text x="82.0" y="197.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Dire Straits · Rock</text>
+<polygon points="318.0,169.0 320.6,175.4 327.5,175.9 322.3,180.4 323.9,187.1 318.0,183.5 312.1,187.1 313.7,180.4 308.5,175.9 315.4,175.4" fill="#f4a259"/>
+<text x="382.0" y="186.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">5.00</text>
+<rect x="60" y="224" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="60" y="224" width="7" height="58" rx="3" fill="#f4a259"/>
+<text x="82.0" y="249.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Foundations</text>
+<text x="82.0" y="271.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Kate Nash · Pop</text>
+<polygon points="318.0,243.0 320.6,249.4 327.5,249.9 322.3,254.4 323.9,261.1 318.0,257.5 312.1,261.1 313.7,254.4 308.5,249.9 315.4,249.4" fill="#f4a259"/>
+<text x="382.0" y="260.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">5.00</text>
+<rect x="60" y="298" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="60" y="298" width="7" height="58" rx="3" fill="#e4572e"/>
+<text x="82.0" y="323.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Highway Star</text>
+<text x="82.0" y="345.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Deep Purple · Rock</text>
+<rect x="218" y="308" width="44" height="20" rx="10" fill="#2a9d8f"/>
+<text x="239.7" y="323.0" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">new</text>
+<polygon points="318.0,317.0 320.6,323.4 327.5,323.9 322.3,328.4 323.9,335.1 318.0,331.5 312.1,335.1 313.7,328.4 308.5,323.9 315.4,323.4" fill="#f4a259"/>
+<text x="382.0" y="334.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">4.89</text>
+<rect x="60" y="372" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="60" y="372" width="7" height="58" rx="3" fill="#f4a259"/>
+<text x="82.0" y="397.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Heavy Cross</text>
+<text x="82.0" y="419.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Gossip · Pop</text>
+<polygon points="318.0,391.0 320.6,397.4 327.5,397.9 322.3,402.4 323.9,409.1 318.0,405.5 312.1,409.1 313.7,402.4 308.5,397.9 315.4,397.4" fill="#f4a259"/>
+<text x="382.0" y="408.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">4.71</text>
+<rect x="60" y="446" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="60" y="446" width="7" height="58" rx="3" fill="#e4572e"/>
+<text x="82.0" y="471.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Superman Tonight</text>
+<text x="82.0" y="493.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Bon Jovi · Rock</text>
+<polygon points="318.0,465.0 320.6,471.4 327.5,471.9 322.3,476.4 323.9,483.1 318.0,479.5 312.1,483.1 313.7,476.4 308.5,471.9 315.4,471.4" fill="#f4a259"/>
+<text x="382.0" y="482.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">4.66</text>
+<rect x="560" y="102" width="340" height="34" rx="17" fill="#2c3e50"/>
+<text x="730.0" y="125.0" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">in a traffic jam</text>
+<rect x="560" y="150" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="560" y="150" width="7" height="58" rx="3" fill="#e4572e"/>
+<text x="582.0" y="175.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Sultans of Swing</text>
+<text x="582.0" y="197.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Dire Straits · Rock</text>
+<polygon points="818.0,169.0 820.6,175.4 827.5,175.9 822.3,180.4 823.9,187.1 818.0,183.5 812.1,187.1 813.7,180.4 808.5,175.9 815.4,175.4" fill="#f4a259"/>
+<text x="882.0" y="186.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">4.20</text>
+<rect x="560" y="224" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="560" y="224" width="7" height="58" rx="3" fill="#0096cc"/>
+<text x="582.0" y="249.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">The Thrill is Gone</text>
+<text x="582.0" y="271.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">B.B. King · Blues</text>
+<polygon points="818.0,243.0 820.6,249.4 827.5,249.9 822.3,254.4 823.9,261.1 818.0,257.5 812.1,261.1 813.7,254.4 808.5,249.9 815.4,249.4" fill="#f4a259"/>
+<text x="882.0" y="260.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">3.86</text>
+<rect x="560" y="298" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="560" y="298" width="7" height="58" rx="3" fill="#f4a259"/>
+<text x="582.0" y="323.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Foundations</text>
+<text x="582.0" y="345.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Kate Nash · Pop</text>
+<polygon points="818.0,317.0 820.6,323.4 827.5,323.9 822.3,328.4 823.9,335.1 818.0,331.5 812.1,335.1 813.7,328.4 808.5,323.9 815.4,323.4" fill="#f4a259"/>
+<text x="882.0" y="334.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">3.71</text>
+<rect x="560" y="372" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="560" y="372" width="7" height="58" rx="3" fill="#0096cc"/>
+<text x="582.0" y="397.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">I Can't Quit You Baby</text>
+<text x="582.0" y="419.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Led Zeppelin · Blues</text>
+<polygon points="818.0,391.0 820.6,397.4 827.5,397.9 822.3,402.4 823.9,409.1 818.0,405.5 812.1,409.1 813.7,402.4 808.5,397.9 815.4,397.4" fill="#f4a259"/>
+<text x="882.0" y="408.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">3.62</text>
+<rect x="560" y="446" width="340" height="58" rx="10" fill="#fff" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="560" y="446" width="7" height="58" rx="3" fill="#e4572e"/>
+<text x="582.0" y="471.0" font-size="19" font-weight="bold" fill="#2c3e50" text-anchor="start">Highway Star</text>
+<text x="582.0" y="493.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="start">Deep Purple · Rock</text>
+<rect x="718" y="456" width="44" height="20" rx="10" fill="#2a9d8f"/>
+<text x="739.7" y="471.0" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">new</text>
+<polygon points="818.0,465.0 820.6,471.4 827.5,471.9 822.3,476.4 823.9,483.1 818.0,479.5 812.1,483.1 813.7,476.4 808.5,471.9 815.4,471.4" fill="#f4a259"/>
+<text x="882.0" y="482.0" font-size="20" font-weight="bold" fill="#2c3e50" text-anchor="end">3.57</text>
+<path d="M400,179 C480,179 480,179 560,179" fill="none" stroke="#e4572e" stroke-width="3" stroke-opacity="0.8"/>
+<path d="M400,253 C480,253 480,327 560,327" fill="none" stroke="#e4572e" stroke-width="3" stroke-opacity="0.8"/>
+<path d="M400,327 C480,327 480,475 560,475" fill="none" stroke="#e4572e" stroke-width="3" stroke-opacity="0.8"/>
+<path d="M400,401 l46,14" stroke="#e4572e" stroke-width="3" stroke-dasharray="6 5" fill="none"/>
+<path d="M400,475 l46,14" stroke="#e4572e" stroke-width="3" stroke-dasharray="6 5" fill="none"/>
+<path d="M514,239 L560,253" stroke="#2a9d8f" stroke-width="3" stroke-dasharray="6 5" fill="none"/>
+<path d="M514,387 L560,401" stroke="#2a9d8f" stroke-width="3" stroke-dasharray="6 5" fill="none"/>
+<line x1="70" y1="545" x2="104" y2="545" stroke="#e4572e" stroke-width="3"/>
+<text x="114.0" y="550.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">same song, lower score</text>
+<line x1="330" y1="545" x2="364" y2="545" stroke="#2a9d8f" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="374.0" y="550.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">enters the top 5</text>
+<line x1="542" y1="545" x2="576" y2="545" stroke="#e4572e" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="586.0" y="550.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">drops out</text>
+<rect x="698" y="535" width="44" height="20" rx="10" fill="#2a9d8f"/>
+<text x="720.0" y="550.0" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">new</text>
+<text x="752.0" y="550.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">never rated by this driver</text>
+<text x="936.0" y="584.0" font-size="13" font-weight="normal" fill="#6b7780" text-anchor="end" font-style="italic">Model: gradient-boosted trees (carmusic recommend, default)</text>
+</svg>
