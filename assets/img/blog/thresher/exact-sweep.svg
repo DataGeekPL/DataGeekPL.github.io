@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="swt swd">
+<title id="swt">How the exact sweep finds the best cut-off</title>
+<desc id="swd">Ten sorted scores, positives and negatives. For every place a cut can go, the number of correct answers is the negatives to its left plus the positives to its right. The best cut, at 0.425, gets 9 of 10 right; a cut at 0.5 gets 8.</desc>
+<rect width="960" height="600" rx="18" fill="#f5f8fa"/>
+<text x="480.0" y="50.0" font-size="28" font-weight="bold" fill="#2c3e50" text-anchor="middle">How the exact sweep finds the best cut-off</text>
+<text x="480.0" y="82.0" font-size="19" font-weight="bold" fill="#0096cc" text-anchor="middle">correct(cut) = negatives left of the cut + positives right of it</text>
+<line x1="80" y1="190" x2="880" y2="190" stroke="#8a96a0" stroke-width="3"/>
+<line x1="80.0" y1="184" x2="80.0" y2="196" stroke="#8a96a0" stroke-width="3"/>
+<text x="80.0" y="220.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle">0</text>
+<line x1="480.0" y1="184" x2="480.0" y2="196" stroke="#8a96a0" stroke-width="3"/>
+<text x="480.0" y="220.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle">0.5</text>
+<line x1="880.0" y1="184" x2="880.0" y2="196" stroke="#8a96a0" stroke-width="3"/>
+<text x="880.0" y="220.0" font-size="16" font-weight="normal" fill="#6b7780" text-anchor="middle">1</text>
+<text x="884.0" y="144.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="end">score</text>
+<circle cx="120.0" cy="168" r="13" fill="#8a96a0"/>
+<text x="120.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">−</text>
+<circle cx="176.0" cy="168" r="13" fill="#8a96a0"/>
+<text x="176.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">−</text>
+<circle cx="240.0" cy="168" r="13" fill="#0096cc"/>
+<text x="240.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">+</text>
+<circle cx="328.0" cy="168" r="13" fill="#8a96a0"/>
+<text x="328.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">−</text>
+<circle cx="384.0" cy="168" r="13" fill="#8a96a0"/>
+<text x="384.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">−</text>
+<circle cx="456.0" cy="168" r="13" fill="#0096cc"/>
+<text x="456.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">+</text>
+<circle cx="520.0" cy="168" r="13" fill="#0096cc"/>
+<text x="520.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">+</text>
+<circle cx="584.0" cy="168" r="13" fill="#0096cc"/>
+<text x="584.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">+</text>
+<circle cx="704.0" cy="168" r="13" fill="#0096cc"/>
+<text x="704.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">+</text>
+<circle cx="808.0" cy="168" r="13" fill="#0096cc"/>
+<text x="808.0" y="173.0" font-size="17" font-weight="bold" fill="#fff" text-anchor="middle">+</text>
+<rect x="66.0" y="338" width="28" height="132" rx="5" fill="#c9d3da"/>
+<text x="80.0" y="330.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">6</text>
+<line x1="80.0" y1="230" x2="80.0" y2="310" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="134.0" y="316" width="28" height="154" rx="5" fill="#c9d3da"/>
+<text x="148.0" y="308.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">7</text>
+<line x1="148.0" y1="230" x2="148.0" y2="288" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="194.0" y="294" width="28" height="176" rx="5" fill="#c9d3da"/>
+<text x="208.0" y="286.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">8</text>
+<line x1="208.0" y1="230" x2="208.0" y2="266" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="270.0" y="316" width="28" height="154" rx="5" fill="#c9d3da"/>
+<text x="284.0" y="308.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">7</text>
+<line x1="284.0" y1="230" x2="284.0" y2="288" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="342.0" y="294" width="28" height="176" rx="5" fill="#c9d3da"/>
+<text x="356.0" y="286.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">8</text>
+<line x1="356.0" y1="230" x2="356.0" y2="266" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="406.0" y="272" width="28" height="198" rx="5" fill="#2a9d8f"/>
+<text x="420.0" y="264.0" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">9</text>
+<line x1="420.0" y1="230" x2="420.0" y2="244" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="474.0" y="294" width="28" height="176" rx="5" fill="#e4572e"/>
+<text x="488.0" y="286.0" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">8</text>
+<line x1="488.0" y1="230" x2="488.0" y2="266" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="538.0" y="316" width="28" height="154" rx="5" fill="#c9d3da"/>
+<text x="552.0" y="308.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">7</text>
+<line x1="552.0" y1="230" x2="552.0" y2="288" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="630.0" y="338" width="28" height="132" rx="5" fill="#c9d3da"/>
+<text x="644.0" y="330.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">6</text>
+<line x1="644.0" y1="230" x2="644.0" y2="310" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="742.0" y="360" width="28" height="110" rx="5" fill="#c9d3da"/>
+<text x="756.0" y="352.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">5</text>
+<line x1="756.0" y1="230" x2="756.0" y2="332" stroke="#E7EEF2" stroke-width="2"/>
+<rect x="866.0" y="382" width="28" height="88" rx="5" fill="#c9d3da"/>
+<text x="880.0" y="374.0" font-size="16" font-weight="bold" fill="#6b7780" text-anchor="middle">4</text>
+<line x1="880.0" y1="230" x2="880.0" y2="354" stroke="#E7EEF2" stroke-width="2"/>
+<line x1="60" y1="470" x2="900" y2="470" stroke="#8a96a0" stroke-width="2"/>
+<text x="420.0" y="500.0" font-size="17" font-weight="bold" fill="#2a9d8f" text-anchor="middle">best cut: 0.425 → 9/10</text>
+<text x="528.0" y="524.0" font-size="16" font-weight="bold" fill="#e4572e" text-anchor="start">cut at 0.5 → 8/10</text>
+<circle cx="88" cy="110" r="9" fill="#0096cc"/>
+<text x="104.0" y="115.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">positive</text>
+<circle cx="190" cy="110" r="9" fill="#8a96a0"/>
+<text x="206.0" y="115.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">negative</text>
+<rect x="30" y="538" width="900" height="44" rx="12" fill="#2c3e50"/>
+<text x="480.0" y="567.0" font-size="19" font-weight="bold" fill="#fff" text-anchor="middle">Sort once, sweep once: 12 ms for 16,000 rows, vs 18 s re-scoring every cut</text>
+</svg>
