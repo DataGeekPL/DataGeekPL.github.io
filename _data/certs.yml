@@ -21,11 +21,12 @@
 - name: "Reproducible Research"
   issuer: "Johns Hopkins University"
   platform: "Coursera"
-  date: 2016-06-01
+  date: 2016-06-14
   badge: "JHU"
   color: "#2c3e50"
   note: "Data Science Specialization"
   skills: ["Reproducible research", "R Markdown", "knitr"]
+  url: "https://www.coursera.org/account/accomplishments/verify/F7FWQ8J89CUN"
 
 - name: "DAT209x: Programming in R for Data Science"
   issuer: "Microsoft"
