@@ -33,6 +33,7 @@ nav_item: certs
           <div class="cert-meta">
             {{ cert.issuer }}{% if cert.platform != cert.issuer %} &middot; {{ cert.platform }}{% endif %} &middot; {{ cert.date | date: "%b %Y" }}
             {% if cert.note %}<span class="cert-note">{{ cert.note }}</span>{% endif %}
+            {% if cert.honors %}<span class="cert-honors"><i class="fa fa-star"></i> {{ cert.honors }}</span>{% endif %}
           </div>
           {% if cert.skills %}
             <div class="cert-skills">

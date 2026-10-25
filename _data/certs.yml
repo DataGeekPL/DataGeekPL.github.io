@@ -1,5 +1,6 @@
 # Certificates shown on /certs/, newest first by `date` (the day is a placeholder: only month and year are shown).
-# `badge` and `color` draw the round issuer badge; `url` is a verification link and is shown only when set.
+# `badge` and `color` draw the round issuer badge; `url` is a verification link and `honors` a highlighted label,
+# both shown only when set.
 - name: "Generative AI with Large Language Models"
   issuer: "DeepLearning.AI & AWS"
   platform: "Coursera"
@@ -84,11 +85,13 @@
 - name: "The Data Scientist’s Toolbox"
   issuer: "Johns Hopkins University"
   platform: "Coursera"
-  date: 2015-06-01
+  date: 2015-06-08
   badge: "JHU"
   color: "#2c3e50"
   note: "Data Science Specialization"
+  honors: "With distinction"
   skills: ["Data science", "GitHub", "R", "RStudio"]
+  url: "https://www.coursera.org/account/accomplishments/verify/QC2JCCPT68"
 
 - name: "Process Mining: Data Science in Action"
   issuer: "Eindhoven University of Technology"
