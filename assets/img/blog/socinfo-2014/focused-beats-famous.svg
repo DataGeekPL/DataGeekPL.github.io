@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-labelledby="tmt tmd">
+<title id="tmt">Focused and engaged beats famous</title>
+<desc id="tmd">How developer traits relate to project quality. Following many other developers: more stars and better long-term issue fixing, but slower first responses. Having many followers: a weak link to stars only. Contributing a lot elsewhere and owning many repositories: fewer stars and slower fixes. Organization-owned projects: more stars, but worse at closing long-standing issues.</desc>
+<rect width="960" height="560" rx="18" fill="#f5f8fa"/>
+<text x="480.0" y="50.0" font-size="28" font-weight="bold" fill="#2c3e50" text-anchor="middle">Focused and engaged beats famous</text>
+<text x="480.0" y="80.0" font-size="17" font-weight="normal" fill="#6b7780" text-anchor="middle">How the traits of a project’s developers relate to its quality</text>
+<text x="560.0" y="126.0" font-size="17" font-weight="bold" fill="#2c3e50" text-anchor="middle">more stars</text>
+<text x="700.0" y="126.0" font-size="17" font-weight="bold" fill="#2c3e50" text-anchor="middle">issues closed</text>
+<text x="700.0" y="147.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="middle">within 3 days</text>
+<text x="840.0" y="126.0" font-size="17" font-weight="bold" fill="#2c3e50" text-anchor="middle">issues closed</text>
+<text x="840.0" y="147.0" font-size="15" font-weight="normal" fill="#6b7780" text-anchor="middle">within a year</text>
+<text x="60.0" y="136.0" font-size="17" font-weight="bold" fill="#2c3e50" text-anchor="start">When…</text>
+<rect x="30" y="170" width="900" height="64" rx="10" fill="#ffffff"/>
+<text x="60.0" y="209.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">Developers follow many others</text>
+<circle cx="560" cy="202.0" r="17" fill="#2a9d8f"/>
+<path d="M552,202.0 l6,6 l11,-12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="700" cy="202.0" r="17" fill="#e4572e"/>
+<path d="M693,195.0 l14,14 M707,195.0 l-14,14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="202.0" r="17" fill="#2a9d8f"/>
+<path d="M832,202.0 l6,6 l11,-12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60.0" y="273.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">Developers have many followers</text>
+<circle cx="560" cy="266.0" r="17" fill="#2a9d8f"/>
+<path d="M552,266.0 l6,6 l11,-12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="584.0" y="271.0" font-size="14" font-weight="bold" fill="#6b7780" text-anchor="start">weak</text>
+<text x="700.0" y="272.0" font-size="22" font-weight="bold" fill="#8a96a0" text-anchor="middle">–</text>
+<text x="840.0" y="272.0" font-size="22" font-weight="bold" fill="#8a96a0" text-anchor="middle">–</text>
+<rect x="30" y="298" width="900" height="64" rx="10" fill="#ffffff"/>
+<text x="60.0" y="337.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">Developers contribute a lot, also elsewhere</text>
+<circle cx="560" cy="330.0" r="17" fill="#e4572e"/>
+<path d="M553,323.0 l14,14 M567,323.0 l-14,14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="700" cy="330.0" r="17" fill="#e4572e"/>
+<path d="M693,323.0 l14,14 M707,323.0 l-14,14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="330.0" r="17" fill="#e4572e"/>
+<path d="M833,323.0 l14,14 M847,323.0 l-14,14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<text x="60.0" y="401.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">Developers own many repositories</text>
+<circle cx="560" cy="394.0" r="17" fill="#e4572e"/>
+<path d="M553,387.0 l14,14 M567,387.0 l-14,14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="700" cy="394.0" r="17" fill="#e4572e"/>
+<path d="M693,387.0 l14,14 M707,387.0 l-14,14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<text x="840.0" y="400.0" font-size="22" font-weight="bold" fill="#8a96a0" text-anchor="middle">–</text>
+<rect x="30" y="426" width="900" height="64" rx="10" fill="#ffffff"/>
+<text x="60.0" y="465.0" font-size="18" font-weight="normal" fill="#3A4145" text-anchor="start">The project is owned by an organization</text>
+<circle cx="560" cy="458.0" r="17" fill="#2a9d8f"/>
+<path d="M552,458.0 l6,6 l11,-12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="700.0" y="464.0" font-size="22" font-weight="bold" fill="#8a96a0" text-anchor="middle">–</text>
+<circle cx="840" cy="458.0" r="17" fill="#e4572e"/>
+<path d="M833,451.0 l14,14 M847,451.0 l-14,14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="70" cy="519" r="10" fill="#2a9d8f"/>
+<text x="88.0" y="524.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">helps</text>
+<circle cx="160" cy="519" r="10" fill="#e4572e"/>
+<text x="178.0" y="524.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">hurts</text>
+<text x="250.0" y="524.0" font-size="15" font-weight="normal" fill="#3A4145" text-anchor="start">–  not significant</text>
+<text x="936.0" y="544.0" font-size="13" font-weight="normal" fill="#6b7780" text-anchor="end" font-style="italic">Significant at p &lt; 0.05: Jarczyk et al., SocInfo 2014, Tables 1 and 2</text>
+</svg>

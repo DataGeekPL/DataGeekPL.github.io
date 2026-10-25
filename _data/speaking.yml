@@ -1,8 +1,14 @@
 - name: "SocInfo'14 conference (Barcelona, Spain)"
   date: "Nov 12, 2014"
   description: |
-    [Academic] I gave a speech at the SocInfo'14 conference where I presented the
-    paper "GitHub projects. Quality analysis of open-source software."
+    [Academic] At SocInfo 2014, the 6th International Conference on Social Informatics, I presented
+    our paper "GitHub Projects. Quality Analysis of Open-Source Software", which was nominated for the
+    best paper award. It measures the quality of open-source projects by their stars and by how quickly
+    their teams close issues, and finds that focused, engaged developers matter more than famous ones.
+  thumbnail_path: blog/socinfo-2014/issue-survival.svg
+  thumbnail_url: "/writing/2026/10/25/socinfo-2014/"
   links:
+    - label: "Blog post"
+      url: "/writing/2026/10/25/socinfo-2014/"
     - label: "Paper"
-      url: "https://www.springer.com/gp/book/9783319151670"
+      url: "https://doi.org/10.1007/978-3-319-13734-6_6"
