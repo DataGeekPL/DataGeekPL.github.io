@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Traffic jam or coast road? A music recommender that reads the drive"
+last_modified_at: 2026-10-25
 tags:
 - Machine learning
 - Recommendation models
@@ -106,5 +107,3 @@ carmusic recommend --user 1033 --situation "traffic jam"
 # both questions, 5-fold cross-validation, about a minute
 carmusic evaluate
 ```
-
-<p class="post-update-note">This post was rewritten in October 2026.</p>
