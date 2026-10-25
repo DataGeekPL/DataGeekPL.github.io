@@ -5,7 +5,7 @@
     our paper "GitHub Projects. Quality Analysis of Open-Source Software", which was nominated for the
     best paper award. It measures the quality of open-source projects by their stars and by how quickly
     their teams close issues, and finds that focused, engaged developers matter more than famous ones.
-  thumbnail_path: blog/socinfo-2014/issue-survival.svg
+  thumbnail_path: speaking/socinfo-2014.png
   thumbnail_url: "/writing/2026/10/25/socinfo-2014/"
   links:
     - label: "Blog post"
