@@ -43,6 +43,12 @@ table.no-wrap {
   table {
     margin-bottom: 1.5rem;
     font-size: 0.9rem;
+
+    // on narrow screens a wide table scrolls inside its own box instead of widening the page
+    @media (max-width: 40em) {
+      display: block;
+      overflow-x: auto;
+    }
   }
 
   .paper-card {
